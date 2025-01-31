@@ -12,7 +12,7 @@ Python 3 no Kali Linux
 ## 📥 Passo a passo:
 🔹 1. usar como o referência os scripts do repositório:
  https://github.com/cassiano-dio/cibersecurity-desafio-ransomware
- cd simulador-ransomware
+ 
 
 🔹 2. Instalar dependências:
 Caso não tenha a biblioteca pyaes, instale com:
