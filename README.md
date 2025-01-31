@@ -17,14 +17,16 @@ Python 3 no Kali Linux
 🔹 2. Instalar dependências:
 Caso não tenha a biblioteca pyaes, instale com:
 
-*sudo apt install python3-pyaes*
+**sudo apt install python3-pyaes**
 
 🔹 3. Criptografar o arquivo executando:
 
-*python encrypter.py*
+**python encrypter.py**
+
 esse comando irá remover o arquivo teste.txt e criará o teste.txt.ransomwaretroll. criptografado.
 
 🔹 4. Descriptografar o arquivo executando:
 
-*python decrypter.py*
+**python decrypter.py**
+
 Esse comando restaurará o arquivo teste.txt com a mensagem descriptografada.
